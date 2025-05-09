@@ -35,5 +35,3 @@ Navigate to different sheets to analyze sales trends and insights.
 
 Use filters, pivot tables, and charts for deeper analysis.
 
-📝 Author
-Deepak – Data Science Enthusiast
